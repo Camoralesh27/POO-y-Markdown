@@ -108,5 +108,19 @@ class animal{
  * [ ] Task 6
  * [ ] Task 7
  * [ ] Task 8
- 
+
  <!-- con espacio en blanco para que entienda github como casilla vacia -->
+
+ <!-- para nombrar a alguien puedes poner -->
+ @camoralesh27
+
+ <!-- y le aparecerá una notificación a la persona -->
+
+ <!-- para poner EMOJIS escribe en el buscador "github emojis" y te va a aparecer la lista de Github -->
+
+ :smiley:
+ :joy:
+ :+1:
+ :ok_hand:
+
+<!-- VScode no lo interpreta pero Github si -->
