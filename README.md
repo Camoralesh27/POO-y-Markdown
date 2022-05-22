@@ -101,4 +101,12 @@ class animal{
 
  <!-- GITHUB MARKDOWN -->
  * [X] Task 1
- * [] Task 2
+ * [X] Task 2
+ * [X] Task 3
+ * [X] Task 4
+ * [ ] Task 5
+ * [ ] Task 6
+ * [ ] Task 7
+ * [ ] Task 8
+ 
+ <!-- con espacio en blanco para que entienda github como casilla vacia -->
