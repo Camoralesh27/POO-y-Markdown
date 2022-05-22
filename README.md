@@ -124,3 +124,5 @@ class animal{
  :ok_hand:
 
 <!-- VScode no lo interpreta pero Github si -->
+
+<!-- Si quieres saber más, toda la documentación está en GITHUB MARKDOWN CHEAT SHEET -->
