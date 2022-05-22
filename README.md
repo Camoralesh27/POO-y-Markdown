@@ -1,3 +1,5 @@
+<!-- Para que Github lo interprete tiene que llamarse README. -->
+
 <!-- HEADINGS -->
 # my titulo
 ## Mi titulo  h2
